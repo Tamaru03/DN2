@@ -1,33 +1,33 @@
 // IP数据
 const ipData = [
     //游戏IP
-    {name: '原神',image: 'pic/ys.png',score: 9.5,type: '游戏' },
-    {name: '恋与深空',image: 'pic/share.png',score: 8.8,type: '游戏',},
-    {name: '星穹铁道',image: 'pic/星铁.png',score: 8.2,type: '游戏',},
-    {name: '王者荣耀',image: 'pic/王者.png',score: 8.2,type: '游戏',},
-    {name: '蛋仔派对',image: 'pic/蛋仔派对.png',score: 8.2,type: '游戏',},
-    {name: '明日方舟',image: 'pic/明日方舟.png',score: 8.2,type: '游戏',},
-    {name: '无限暖暖',image: 'pic/无限暖暖.png',score: 8.2,type: '游戏',},
-    {name: '世界之外',image: 'pic/世界之外.png',score: 8.2,type: '游戏',},
-    {name: '光遇',image: 'pic/光遇.png',score: 8.2,type: '游戏',},
-    {name: '三角洲行动',image: 'pic/三角洲.png',score: 8.2,type: '游戏',},
-    {name: '金铲铲之战',image: 'pic/金铲铲.png',score: 8.2,type: '游戏',},
-    {name: '第五人格',image: 'pic/第五人格.png',score: 8.2,type: '游戏',},
-    {name: '永劫无间',image: 'pic/永杰。png.webp',score: 8.2,type: '游戏',},
-    {name: '绝区零',image: 'pic/绝区零.png',score: 8.2,type: '游戏',},
+    {name: '原神',image: '/DN2/DN/pic/ys.png',score: 9.5,type: '游戏' },
+    {name: '恋与深空',image: '/DN2/DN/pic/share.png',score: 8.8,type: '游戏',},
+    {name: '星穹铁道',image: '/DN2/DN/pic/星铁.png',score: 8.2,type: '游戏',},
+    {name: '王者荣耀',image: '/DN2/DN/pic/王者.png',score: 8.2,type: '游戏',},
+    {name: '蛋仔派对',image: '/DN2/DN/pic/蛋仔派对.png',score: 8.2,type: '游戏',},
+    {name: '明日方舟',image: '/DN2/DN/pic/明日方舟.png',score: 8.2,type: '游戏',},
+    {name: '无限暖暖',image: '/DN2/DN/pic/无限暖暖.png',score: 8.2,type: '游戏',},
+    {name: '世界之外',image: '/DN2/DN/pic/世界之外.png',score: 8.2,type: '游戏',},
+    {name: '光遇',image: '/DN2/DN/pic/光遇.png',score: 8.2,type: '游戏',},
+    {name: '三角洲行动',image: '/DN2/DN/pic/三角洲.png',score: 8.2,type: '游戏',},
+    {name: '金铲铲之战',image: '/DN2/DN/pic/金铲铲.png',score: 8.2,type: '游戏',},
+    {name: '第五人格',image: '/DN2/DN/pic/第五人格.png',score: 8.2,type: '游戏',},
+    {name: '永劫无间',image: '/DN2/DN/pic/永杰。png.webp',score: 8.2,type: '游戏',},
+    {name: '绝区零',image: '/DN2/DN/pic/绝区零.png',score: 8.2,type: '游戏',},
 
 
 
 
     //动漫IP
-    {name: '名侦探柯南',image: 'pic/nan.png',score: 9.8,type: '动漫',},
-    {name: '间谍过家家',image: 'pic/间谍过家家.png',score: 9.8,type: '动漫',},
-    {name: '海绵宝宝',image: 'pic/海绵宝宝.png',score: 9.8,type: '动漫',},
-    {name: '葬送的芙莉莲',image: 'pic/芙.png',score: 9.8,type: '动漫',},
-    {name: '蜡笔小新',image: 'pic/蜡笔小新.png',score: 9.8,type: '动漫',},
-    {name: '轻音少女',image: 'pic/轻音少女.png',score: 9.8,type: '动漫',},
-    {name: '小马宝莉',image: 'pic/小马宝莉.png',score: 9.8,type: '动漫',},
-    {name: 'JOJO的奇妙冒险',image: 'pic/JOJO.png',score: 9.8,type: '动漫',},
+    {name: '名侦探柯南',image: '/DN2/DN/pic/nan.png',score: 9.8,type: '动漫',},
+    {name: '间谍过家家',image: '/DN2/DN/pic/间谍过家家.png',score: 9.8,type: '动漫',},
+    {name: '海绵宝宝',image: '/DN2/DN/pic/海绵宝宝.png',score: 9.8,type: '动漫',},
+    {name: '葬送的芙莉莲',image: '/DN2/DN/pic/芙.png',score: 9.8,type: '动漫',},
+    {name: '蜡笔小新',image: '/DN2/DN/pic/蜡笔小新.png',score: 9.8,type: '动漫',},
+    {name: '轻音少女',image: '/DN2/DN/pic/轻音少女.png',score: 9.8,type: '动漫',},
+    {name: '小马宝莉',image: '/DN2/DN/pic/小马宝莉.png',score: 9.8,type: '动漫',},
+    {name: 'JOJO的奇妙冒险',image: '/DN2/DN/pic/JOJO.png',score: 9.8,type: '动漫',},
    
 ];
 
